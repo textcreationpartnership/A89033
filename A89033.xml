@@ -1,0 +1,541 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A memento for Holland or A true and exact history of the most villainous and barbarous cruelties used on the English merchants residing at Amboyna in the East-Indies, by the Netherland governor and conncel [sic] there. Wherein is shewed what tortures were used to make them confess a conspiracy they were never guilty of; by putting them on the rack, and by a water torture, to suffocate them; and by burning them under their arm pits, and soals of their feet, till their fat by dropping extinguished the candles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89033</idno>
+            <idno type="STC">Wing M1659</idno>
+            <idno type="STC">Thomason E1475_1</idno>
+            <idno type="STC">ESTC R209516</idno>
+            <idno type="EEBO-CITATION">99868392</idno>
+            <idno type="PROQUEST">99868392</idno>
+            <idno type="VID">170004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170004)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 189:E1475[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A memento for Holland or A true and exact history of the most villainous and barbarous cruelties used on the English merchants residing at Amboyna in the East-Indies, by the Netherland governor and conncel [sic] there. Wherein is shewed what tortures were used to make them confess a conspiracy they were never guilty of; by putting them on the rack, and by a water torture, to suffocate them; and by burning them under their arm pits, and soals of their feet, till their fat by dropping extinguished the candles.</title>
+               </titleStmt>
+               <extent>[6], 44 p. : ill (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Moxon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 2."; 2 in imprint crossed out and changed to "3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Variant. "Councel" spelled correctly in title.</note>
+                  <note>Missing pages 11 - 14.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Torture --  Early works to 1800.</term>
+               <term>Netherlands --  Relations --  Great Britain.</term>
+               <term>Netherlands --  Colonies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170004:1" rendition="simple:additions"/>
+            <p>A MEMENTO <hi>FOR</hi> HOLLAND: OR A True and Exact Hiſto<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the moſt Villainous and B<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>barous Cruelties uſed on the Eng<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Merchants reſiding at <hi>Amboyna</hi> in the <hi>Eaſt-Indies,</hi> by the Netherland Governo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Councel there.</p>
+            <p>Wherein is ſhewed What Tortures were uſed t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make them confeſs a Conſpira<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they were never guilty of; by putting them on the Rack, and by a Water torture to ſuffocate them; and by burning them under their Arm-pits, and Soals of their Feet, till their fat by dropping extin<g ref="char:EOLhyphen"/>guiſhed the Candles.</p>
+            <p>
+               <hi>London,</hi> Printed by JAMES MOXON, 1<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:170004:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of scenes of torture</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:170004:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:170004:3"/>
+            <pb facs="tcp:170004:3"/>
+            <head>The PRINTER TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Here preſent thee with a Story, which cannot be paralleld; that a Nation with whom we have had ſo long confederacy; and for whom we have ventured our lives; and in whoſe quarrel ſo much <hi>Engliſh Blood</hi> hath been ſpent, for the <hi>Defence</hi> and <hi>Regainment</hi> of their <hi>loſt Liberties;</hi> without whom they could not have ſubſiſted; by whoſe Valour they have been maintained; and to whom they <hi>Owe</hi> their very Being; ſhould thus be requited! for (only upon a <hi>pretended</hi> Conſpiracy) to take away the lives (and that a <hi>Favour,</hi> their <hi>Tortures</hi> conſi<g ref="char:EOLhyphen"/>dered) of ſo many innocent (eminent) men; meerly out of a <hi>Covetous Deſire</hi> to <hi>Ingroſs</hi> the whole <hi>Eaſt-India</hi> Trade to themſelves.</p>
+            <p>Let them pretend what they pleaſe; God is
+<pb facs="tcp:170004:4"/> a <hi>juſt Revenging</hi> God: And although hitherto i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h been paſt by, and their execrable deteſta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rranny (a name too good for ſuch Rulers) <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>h buried in the aſhes of Oblivion; yet (I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Generation alive are not ſo degenerate, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will both Remember and Requite their <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ie.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey might have remembred th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t if we had <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſiſted them in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir <hi>loweſt Ebb</hi> againſt <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>r puiſſant Fee, One who (in his thoughts) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſwallowed the Empire of Chriſtendome; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would: Yet ſince the beginning of our <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> happy Troubles, what Ayd have they ſent <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> recover our Rights and Liberties? Surely <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Nay, have they not aſſiſted thoſe who ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to enſlave us?</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hope the Lord will put it into the hearts of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Worthies</hi> ſitting at the Helme, to take th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſineſs into their <hi>Serious Conſideration.</hi> I l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the iſſue to God; having done my Duty as a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue born Engliſhman, and a Lover of my Coun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry; Farewel.</p>
+            <closer>
+               <signed>Thine, <hi>J. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170004:4"/>
+            <head>An Exact and more full R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lation of the <hi>moſt Horrid, Cruel,</hi> a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Barbarous</hi> Proceedings againſt the Engliſh <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Amboyna</hi> by the Netherlanders, for the pretended Conſpiracy of the Engliſh there inhabiting.</head>
+            <opener>
+               <salute>
+                  <hi>Ge<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tlemen and beloved Countrymen,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is not out of any prejudice that I thus recount their <hi>barbarous proce<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<g ref="char:EOLhyphen"/>ings</hi> againſt the poor Engliſh Mer<g ref="char:EOLhyphen"/>chants in <hi>Amboyna,</hi> but to remem<g ref="char:EOLhyphen"/>ber them of their former cruelties to that Nati<g ref="char:EOLhyphen"/>on, which now they ſeem to Court and Sue to. I ſhall give you a true Relation thereof, and let the world judge between us, whether we have not cauſe to remember their former courteſies.</p>
+            <p>After the progreſs of two ſeveral Treaties, the firſt being in 1613. in <hi>London;</hi> and the other at the <hi>Hague</hi> in <hi>Holland,</hi> concerning matters of Trade between the <hi>Engliſh</hi> and <hi>Dutch</hi> in the <hi>Eaſt-Indies;</hi> and at length by a third Treaty in <hi>London,</hi> 1619. all differences in matter of Trade were compoſed; and ſolemn<g ref="char:EOLhyphen"/>ly agreed upon the future proceedings of both
+<pb n="2" facs="tcp:170004:5"/> Companies in the <hi>Indies,</hi> as well in matter of Trade and Commerce, as otherwiſe: and in regard of the great blood ſhed, and pretended coſt the Hollander had been at, in obtaining the Trade of the Iſles of the <hi>Moluccos, Banda,</hi> and <hi>Amboyna</hi> from the <hi>Spaniards</hi> and <hi>Portugals,</hi> and in building of places of Strength to keep out the enemy, and all ſuch as ſhould oppoſe them; the ſaid Hollanders ſhould have the two third parts of the Trade, and the Engliſh the other third; and whatſoever charges they were at in relation to their defence, ſhould be impos'd upon the Merchandiſe. Wherefore in order to this Agreement, the E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gliſh <hi>Eaſt India.</hi> Compa<g ref="char:EOLhyphen"/>ny placed certain Factories for their part of Trade, ſome at the <hi>Mollucco's,</hi> ſome at <hi>Banda,</hi> and others at <hi>Amboyna;</hi> which laſt will prove the Scene of an unparellel'd Tragedy.</p>
+            <p>Now a little to digreſs, I will acquaint the Reader what part of the <hi>Indies</hi> this <hi>Amboyna</hi> lieth in: 'Tis an Iſland adjacent to <hi>Seran,</hi> the compaſs about forty leagues, from whence ſome other Iſlands derive their name; for Commo<g ref="char:EOLhyphen"/>dities, Cloves abound, and great Trade there is for them; for buying and gathering in thereof, the Engliſh Company had ſetled five ſeveral Factories, the head and chief place of meeting was at this Town of <hi>Amboyna;</hi> where firſt M. <hi>Geo, Muſchamp,</hi> and after him M. <hi>Gab. Tower<g ref="char:EOLhyphen"/>ſon</hi>
+               <pb n="3" facs="tcp:170004:5"/> were Agents; to whom Inſtructions were given for the Government of the ſmaller Facto<g ref="char:EOLhyphen"/>ries in the reſpective Iſland, and the neibouring Iſland of <hi>Seran.</hi>
+            </p>
+            <p>Upon the Iſlands of <hi>Amboyna</hi> and point at <hi>Seran,</hi> the Dutch had fortified themſelves in four ſeveral places but their chiefeſt Fort was at the Town of <hi>Amboyna,</hi> which they had made impregnable, having four Bulwarks, and on each point ſix pieces of Ordnance mounted, upon the ſide of the Caſtle the Sea beats, the other is di<g ref="char:EOLhyphen"/>vided from the Land with a kind of deep Graft of five fadom broad, exceeding deep and filled with the Sea. The Gariſon of this Caſtle con<g ref="char:EOLhyphen"/>ſiſted of about two hundred Dutch ſouldiers, and a company of free Burgers, and about four hundred Mardijkers, for ſo they call the free natives in the Town who are ready to ſerve the Caſtle at an hours warning; There likewiſe lay in the Road divers ſtrong <hi>Holland</hi> ſhips as well for defence as Traffique. This being the place of general meeting, as well for the Iſland of <hi>Banda,</hi> as the reſt of <hi>Amboyna.</hi> Here the Engliſh inha<g ref="char:EOLhyphen"/>bited, not in the Caſtle, but under its protection, in an houſe of their own, thinking themſelves ſafe, and reſting upon the credit of the Dutch; firſt in reſpect of the affinity of both Nations; ſecondly, in regard of the late Treaty.</p>
+            <p>Here they continued with a ſeeming loving
+<pb n="4" facs="tcp:170004:6"/> reſpect; the Engliſh converſing and trading with the Hollander and the Hollander with the En<g ref="char:EOLhyphen"/>gliſh; and all by vertue of the late Treaty. But in the mean time there hapning ſome difference be<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ween them. The Engliſh not only complain of the Hollanders ſquandring away much mo<g ref="char:EOLhyphen"/>ney in building of unneceſſary charges upon For<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, thereby to bring in unreaſonable reckon<g ref="char:EOLhyphen"/>ings to the common account; but alſo did for their part pay the Gariſons with Victuals, and Cloth of <hi>Corom<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nde<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which they put off to the ſouldiers at four times the price it coſt them; yet would they not allow the Engliſh part of the ſame charge<g ref="char:punc">▪</g> thereby drawing from the Engliſh (which in right ought to pay but one third part) more the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> two thirds of the whole true charge. Hence began the feud between the Hollander and the Engliſh; and upon like uſages of the Engliſh by the Hollanders grew further diſcon<g ref="char:EOLhyphen"/>ten<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e complaints were ſent to <hi>Jacatra,</hi> in the Iſland of <hi>J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>va Ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or,</hi> to the general Coun<g ref="char:EOLhyphen"/>cel for the Defence of both Nations there reſi<g ref="char:EOLhyphen"/>ding; Who not agreeing upon the great differ<g ref="char:EOLhyphen"/>ence between the two Nat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, ſent the ſame o<g ref="char:EOLhyphen"/>ver into <hi>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rop<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to be debated, and the differen<g ref="char:EOLhyphen"/>ces to be compoſed here by both Companies; and in caſe they could not end the controverſie, to the Kings Majeſty, and the Lords, the States General, according to a former Article in the
+<pb n="5" facs="tcp:170004:6"/> Treaty in 1619. In the interim the coals of diſ<g ref="char:EOLhyphen"/>content increaſed between the Engliſh and the Dutch, and there wanted not thoſe that kept them burning; for their differences augmented about theſe and other things, until at length the knot of concord was cut aſunder by the ſword of diſcord. The full relation take as followeth.</p>
+            <p>About the 11. of February <hi>ſtil. vet.</hi> a <hi>Japoni<g ref="char:EOLhyphen"/>an</hi> Souldier of the Dutch, in the Caſtle of <hi>Am<g ref="char:EOLhyphen"/>boyna,</hi> walking in the night upon the Rampire, took an occaſion to ſpeak to the ſentinel (being an Hollander) and among other diſcourſe, asked him ſome queſtions touching the ſtrength of the Caſtle, and concerning the people of the Gari<g ref="char:EOLhyphen"/>ſon; but by the way 'tis here to be noted, that thoſe <hi>Japoneers,</hi> of whom there were not thirty in all the Iſland, were for the moſt part imploy<g ref="char:EOLhyphen"/>ed by the Dutch in the condition of Soldiers, yet were not of thoſe that they confided in, and al<g ref="char:EOLhyphen"/>waies lodged in the Caſtle; but upon ſome ex<g ref="char:EOLhyphen"/>traordinary occaſion were called out of the Town to do ſome duty in the watch; This <hi>Ja<g ref="char:EOLhyphen"/>poneer</hi> aforeſaid was ſuſpected upon his confe<g ref="char:EOLhyphen"/>rence with the ſentinel, and apprehended upon ſurmiſe of treaſon, and put to the water torture, whereby through extream anguiſh and pain, and the cruel uſage of the tormentors he was brought to confeſs himſelf, and ſome of his Countrymen there, to have con<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted the taking
+<pb n="6" facs="tcp:170004:7"/> of the Caſtle; upon his confeſſion, other <hi>Japoniers</hi> were examined, and put to the torture; together with a <hi>Portugal,</hi> the keeper of the ſlaves under the Dutch. Now all the while this buſineſs was upon examination, which was four days, ſome Engliſhmen having buſineſs in the Caſtle, had leave to go to and from the Caſtle, where they ſaw the priſoners and heard of their tortures, and of the crime laid to their charge, but never dream'd or ſurmiſed any thing that they were concerned, or that their turn ſhould be next, ſince they never converſed with the <hi>Japoniers,</hi> or the aforeſaid <hi>Portugal.</hi>
+            </p>
+            <p>At the ſame time there was one <hi>Abel Price, Abel Price</hi> Chyrurgion of the Engliſh, for a miſ<g ref="char:EOLhyphen"/>examind demeanor of offering to fire a Dutch man's houſe, this fellow the Dutch took, and ſhewed him ſome of the <hi>J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poniers</hi> whom they had grievouſly tortured, and to paliate their in<g ref="char:EOLhyphen"/>tentions and deſignes upon the Engliſh, told him they had confeſſed the Engliſh to be confederate with them in the taking of the Caſtle; and if he would not confeſs, they would tor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure him worſe then the <hi>Japoniers.</hi> He denies their accu<g ref="char:EOLhyphen"/>ſation, they put him to the torture, through the extremity whereof they ſoon make him confeſs that which neither he or any of his Countrimen were ever guilty of; this was <hi>Febr.</hi> 15. 1622. <hi>Scil. vet.</hi> Soon after nine of the clock in the
+<pb n="7" facs="tcp:170004:7"/> morning they ſent for Capt. <hi>Towerſon,</hi> and the reſt of thoſe Engliſh that were in the Town to come to ſpeak with the Governor of the Caſtle, and they as innocent of any conſpiracy, never miſtruſted any plots againſt them; all went ſave one that ſtaid behind to keep the houſe. They being come to the Governour, he told Captain <hi>Towerſon</hi> that himſelf and others of his Nation, were accuſed of conſpiracy about ſurpriſal of the Caſtle, and therefore till there could atteſt be made appear of their innocency, they muſt remain in ſafe cuſtody and ſo were made pri<g ref="char:EOLhyphen"/>ſoners.</p>
+            <p>Immediatly alſo they apprehended him that was left at home in the houſe, and took all the Merchandiſe that belonged to the Engliſh Company into their cuſtody and took an Inven<g ref="char:EOLhyphen"/>tory of their goods; ſeiſing upon all their Cheſts, Boxes, Books, Writings, and other things that were in cuſtody of the Engliſh, or belonged to the Engliſh Merchants. Cap. <hi>Towerſon</hi> was com<g ref="char:EOLhyphen"/>mitted to his chamber, and a Guard of Dutch Souldiers appointed to watch him; <hi>Emanuel Tomſon</hi> was kept priſoner in the Caſtle, and the remaining party, <hi>viz. John Beomont, Edward Collins, Will. Webſter, Ephraim Ramſey, Tim. Johnſon, John Fardo,</hi> and <hi>Rob. Frown,</hi> were carried aboard the Hollanders Ships then rid<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g in Harbor, and diſtributed (as to them ſeemed
+<pb n="8" facs="tcp:170004:8"/> beſt for their own deſigns) to ſeveral Ships, and laid faſt in irons: Alſo the ſame day the Gover<g ref="char:EOLhyphen"/>nor ſent to the two other Factories in the Iſland, to apprehend the reſt of the Engliſh there, ſo that <hi>Sam. Colſon, John Clark. Geo. Sharrok</hi> that were found in the Factory at <hi>Hitto;</hi> likewiſe <hi>Edw. Collins, Will. Webber,</hi> and <hi>John Sadler</hi> at <hi>Larica,</hi> were all brought priſoners to <hi>Amboyna, Febr.</hi> 16. Upon which day alſo <hi>John Powel, Iohn Wetheral</hi> and <hi>Thom. Ludbrook</hi> were ap<g ref="char:EOLhyphen"/>prehended at <hi>Cambello;</hi> and <hi>Iohn Beomont, Will. Gregs, Ephraim Ramſey</hi> at <hi>Loho,</hi> and brought in Irons to <hi>Amboyna, Febr.</hi> 20. In the mean time the Governor and Fiſcal went to work w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the priſoners that were already there, and firſt they ſent for <hi>Iohn Beomont,</hi> and <hi>Tim. Iohn<g ref="char:EOLhyphen"/>ſon</hi> from aboard the <hi>Unicorne,</hi> who being come into the Caſtle, <hi>Beomont</hi> was left with a guard, and <hi>Iohnſon</hi> carried into another room; where preſently <hi>Beomont</hi> might hear him cry out pitti<g ref="char:EOLhyphen"/>fully; then again while they ſurceaſt his tor<g ref="char:EOLhyphen"/>ment, to be quiet for a little while; then upon the pinching him again, to tire the ears by the ſhrilneſs of his voice and lamentable complaints. After a taſte of his tortures, <hi>Abel Price</hi> the Chyrurgion that was firſt examined and tortur<g ref="char:EOLhyphen"/>ed, as before rehearſed, was brought to confront and accuſe him; but <hi>Iohnſon</hi> not yet confeſſing any thing, <hi>Price</hi> was quickly carried out, and
+<pb n="9" facs="tcp:170004:8"/> 
+               <hi>Iohnſon</hi> brought again to the Rack; where <hi>Beomont</hi> heard him cry aloud then again to ceaſe, then to cry afreſh; at laſt ſome time be<g ref="char:EOLhyphen"/>ing ſpent in his ſecond examination upon ſome further buſines, he was brought forth bewailing his evil fortune to be thus tortured for noth<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, and being all wet with the water torture, and cruel burning in all parts of his body, he was a perfect Embleme of the Spaniards c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y to the poor Indians; for they u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed not <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>m with more cruelty, then the Dutch did our poor Engliſh Merchants. Now this poor ſoul being thus tormented, was laid aſ de in a hole with a Soldier to guard him, that he ſhould not ſpeak with any body.</p>
+            <p>Then was <hi>Samuel Tomſon</hi> brought to Act his part upon this Tragick Scene, and to be examined;<note place="margin">Sa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uel Tomſon <hi>examined</hi>
+               </note> but not ſuffered to come into the ſame room where <hi>Ioh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon</hi> had bin, but ſomething farther from the Hall; Yet <hi>Beomont</hi> bei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g in the Hall, heard him roar out moſt lamentably at laſt, after an hour and an half torturing he was carried away into another room a contrary way, ſo that he came not by <hi>Beomont</hi> through the Hall.</p>
+            <p>Next was <hi>Beomont</hi> called in, and being ex<g ref="char:EOLhyphen"/>amined of many things which he denyed by deep Oaths and proteſtations, he muſt taſte of the ſame ſauce his Countrimen had, and be made
+<pb n="10" facs="tcp:170004:9"/> to ſuffer thoſe extreme torments; which was to have a cloth tyed about his neck, and two men ready with Jarrs of water to pour on his head: But yet ſuch cruel pity, or pitiful cruelty had the Governor (being almoſt a Chriſtian) to command to looſe him, and he would ſpare him a day or two, becauſe he was an old man. This was finiſhed on Saturday the fifteenth of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> aforeſaid, as a preparative to their Sundays exerciſe.</p>
+            <p>Upon Sunday the ſixteenth of <hi>Febru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry, Will. Webber, Edw. Collins, Ephr. Ramſey,</hi> and <hi>Rob. Brown,</hi> were fetcht from aboard the <hi>Rotterdam</hi> to be examined. At the ſame time came <hi>Sam. Colſon, Will. Griggs, Iohn Clark, Geo. Sharock,</hi> and <hi>John Saddler,</hi> from <hi>Hitto</hi> and <hi>Larica,</hi> and were immediately upon their arrival, brought into the Caſtle Hall.</p>
+            <p>
+               <note place="margin">Robert Brown <hi>Examined.</hi>
+               </note>
+               <hi>Robert Brown, Taylor,</hi> was firſt called in; and being tortured with water he confeſſed all was asked him.</p>
+            <p>
+               <note place="margin">Edward Collins <hi>Examined.</hi>
+               </note>Then was <hi>Edw, Collins</hi> called; and they by their inſinuating pra<g ref="char:EOLhyphen"/>ctiſes told him, that thoſe that were formerly ex<g ref="char:EOLhyphen"/>amined, had confeſt him as acceſſary to the plot of taking the Caſtle; which when he denied with great oaths and execrations (as what will not a man ſay that is guiltles? yet notwithſtanding all the cries of that poor diſconſolate ſoul, they
+<pb facs="tcp:170004:9"/>
+               <pb facs="tcp:170004:10" rendition="simple:additions"/>
+               <pb facs="tcp:170004:11"/>
+               <pb n="15" facs="tcp:170004:11"/> they made his hands and feet faſt to the Wrack, and bound a cloth about his throat, ready to put to the torture of water. Thus this poor man being prepared for the torture, he requi<g ref="char:EOLhyphen"/>red reſpite, and he would confeſs. After Such a ſmall courteſie required, the <hi>Hoghen Mo<g ref="char:EOLhyphen"/>ghens</hi> gave leave. But being again let down, he was ſo far from confeſſing any thing, that he vowed and proteſted his innocency: yet ſaid, that becauſe he knew that they would by tor<g ref="char:EOLhyphen"/>ture make him confeſs any thing, though never ſo falſe, they ſhould do him a great favour to tell him what he ſhould ſay, and he would ſpeak it, to avoid the torture. The Fiſcal made anſwer, <hi>What, do you mock us?</hi> and bade up with him again, and gave the torture of water; which his tender nature not endu<g ref="char:EOLhyphen"/>ring, he prayed to be let down, and he would confeſs all. Then he conſulted with himſelf, and told them, that about ten weeks before, himſelf, <hi>Tomſon, Johnſon, Brown,</hi> and <hi>Fard<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> had plotted, with the help of the <hi>Japoners,</hi> to ſurpriſe the Caſtle. And here the Fiſcal inter<g ref="char:EOLhyphen"/>rupted him, and asked him whether Captain <hi>Tower</hi> were not a complotter with them. He anſwered, <hi>No. You lye,</hi> (ſaid the Fiſcal;) <hi>did not he call you all to him, and tell you that the Dutch-mens baſeneſs to you had cauſed him to think of a plot; and deſire you to ſe<g ref="char:EOLhyphen"/>cure
+<pb n="16" facs="tcp:170004:12"/> its diſcovery, and to ſwear on a Bible to be ſecret to him? Collins</hi> anſwered, with great Oathes, that he knew nothing of it. Then they commanded to make him faſt again: and when he ſaw he muſt go to torture, he ſaid all was true that they had ſpoken. Then the Fiſcal asked whether the Engliſh in the reſt of the Factors were not conſenting to this plot. He anſwered, No. The Fiſcal then asked him whether the Preſident of the Engliſh at <hi>Jac<g ref="char:EOLhyphen"/>catra,</hi> or M. <hi>Welden</hi> Agent in <hi>Bandu,</hi> were not plotters conſenting to this buſineſs. Once more, he replies negatively. The Fiſcal asked them by what means the <hi>Japoners</hi> ſhould have executed their purpoſes. Whereat when <hi>Collings</hi> was at a ſtand, he deviſed with him<g ref="char:EOLhyphen"/>ſelf ſome probable fiction. The Fiſcal holp him, and ſaid, <hi>Should not two</hi> Japoners <hi>have gone to each point of the Caſtle, and two to the Governours chamber-door; and when the hurly-burly had been without, and the Governour coming to pacifie the buſineſs, the</hi> Japoners <hi>to have killed him?</hi> Here one ſaid to the Fiſcal, <hi>Do not tell him what he ſhould ſay, but let him ſpeak for himſelf.</hi> Whereupon, the Fiſcal, without attending his anſwer to the former queſtion, asked him what reward the <hi>Japoners</hi> ſhould have received. <hi>Collins</hi> anſwered, <hi>A thouſand Royals apiece.</hi>
+               <pb n="17" facs="tcp:170004:12"/> Laſtly, he asked when this plot ſhould have been effected. Whereunto though he anſwer<g ref="char:EOLhyphen"/>ed nothing, not knowing what to deviſe upon the ſudden, yet he was diſmiſſed, and glad to become clear of the torture, though he ſhould certainly die for this confeſſion.</p>
+            <p>Next, in order to our Tragedie, was <hi>Samu<g ref="char:EOLhyphen"/>el Colſon</hi> examined, being brought before them, having newly arrived from <hi>Hitto,</hi> as is before touched; who being the ſame day brought to the torture, was ſo appaled at the ſight of <hi>Collins,</hi> (whoſe eyes were blown out of his head with the torture of water) that he choſe rather to confeſs all they asked him, then to be tortured: and ſo he was diſmiſſed; but he went out weeping, proteſting his innocency.</p>
+            <p>Now comes <hi>John Clerk,</hi> who came with <hi>Colſon</hi> from <hi>Hitto,</hi> to be examined, and put to the torture, ſo that he was heard by thoſe without the hall to cry out in an extreme man<g ref="char:EOLhyphen"/>ner; for they tortured him with fire and water for the ſpace of two hours. The manner of his torture, as alſo of <hi>Johnſons</hi> and <hi>Tomſons,</hi> was as followeth. Firſt, they twiſted him up by the hands with a cord on a large door, where they made him faſt to two ſtaples of iron, fixt on both ſides on the top of the door-poſts, ſtretch<g ref="char:EOLhyphen"/>ing his hands aſunder as wide as they could: and being thus made faſt, his feet hung about
+<pb n="18" facs="tcp:170004:13"/> two foot from the ground, which alſo they extended as far as they could, and ſo made them faſt unto the bottom of the door. Then they bound a cloth about his neck and face, ſo cloſe, that little or no water could go by. When they had done this, they poured the water ſoftly upon his head, until the cloth was full up to his mouth and noſtrils, ſo that he could not draw his breath, but he muſt ſuck in the water; which being ſtill continued to be poured in ſoftly, forced his intrails to come out at his eyes ears, and noſe, almoſt to ſtrang<g ref="char:EOLhyphen"/>ling. Never were there ſuch horrid cruelties exerciſed among the Turks and Barbarians, as among thoſe that pretend Chriſtianity. They were ſo cruel to him, that they tormented him till his breath was gone, ſo that he fainted: then they took him quickly down, and made him vomit up the water; and being a little recovered, they pull'd him up again, and char<g ref="char:EOLhyphen"/>ged him with the water again, till they had ſtifled him as before: and this was exerciſed on this poor wretch three or four ſeveral times, till his body was ſwoln twice as big as ordina<g ref="char:EOLhyphen"/>ry, his cheeks puft up like a pair of bladders, and his eyes ſtarting and ſtrutting out beyond his forehead. Yet ſuch was the conſtancie of this poor ſoul, that, rather then he would con<g ref="char:EOLhyphen"/>feſs, or betray any of his Country-men, he
+<pb n="19" facs="tcp:170004:13"/> weuld ſuffer all the injuries could be inflicted upon him; inſomuch that the Fiſcal and Tor<g ref="char:EOLhyphen"/>mentors reviled him, ſaying he was a devil; (when indeed they ſhewed themſelves to be ſo) and that no man but a Witch could endure ſuch torments: wherefore they, in relation to ſome Charms about him, cut off his hair ſhort from his head, and hoyſed him up again as before. Then they burnt him with lighted Candles in the bottom of his feet, until the fat dropt out the Candles: yet, as if theſe cruel<g ref="char:EOLhyphen"/>ties had not been enough, they called for freſh lights, and applied them unto him. They burnt him alſo under the elbows; likewiſe in the palms of his hands: they moreover burnt his arm-holes, till his intrails might be ſeen. At length, when they ſaw all their cruelties could not do any good upon him to make him con<g ref="char:EOLhyphen"/>feſs of himſelf, they led him along with circum<g ref="char:EOLhyphen"/>ſtances plotted and contrived by themſelves; and being thus wearied and overcome by the torment, he (rather then he would ſuffer more) anſwered Yea to whatſoever they asked him. The confeſſion that they drew from him, was to this effect, <hi>viz.</hi> that Captain <hi>Towerſon</hi> had, upon New-yeers day laſt before, ſworn all the Engliſh at <hi>Amboyna</hi> to be ſecret, and to be aſſiſtant to a plot that he had projected, with the help of the <hi>Japoners,</hi> to take the Caſtle,
+<pb n="20" facs="tcp:170004:14"/> and to put the Governour and the reſt of them to death. And thus have I ſhewed you the cruel handling this poor Engliſh Marchant. Now after they had thus macerated his body, they ſent him out by four blacks, who carryed him to the Dungeon, and there laid him in heavy irons for five days without any Chriſti<g ref="char:EOLhyphen"/>an pity, ſo much as to ſend a Chyrurgion to dreſs his putrifyed wounds, which were filled with great Maggots, which dropt and crep from him in a moſt loathſom manner, and this they made their Sabbath days work, it now grew dark, they ſent the reſt of the Engliſh that came from <hi>Hitto</hi> (attended in the Hall) to the Smiths, where they were loaded with Irons, and then carryed to the Priſon where the reſt of the tortured priſoners were, with the <hi>Japoners,</hi> lying miſerably putrified. The next morning, being <hi>Munday</hi> the 17 of <hi>February, William Grigs,</hi> and <hi>John Fardo</hi> were call'd to examination.</p>
+            <p>The <hi>Japoners</hi> were firſt cruelly tortered to accuſe <hi>Greggs,</hi> which after a great deal of torture, were conſtrained, in hope to avoid the cruelty of the torture, to accuſe <hi>Griggs,</hi> to avoid the torture, confeſſed all that he was de<g ref="char:EOLhyphen"/>manded.</p>
+            <p>
+               <hi>John Fardo</hi> comes next with ſome other <hi>Japo<g ref="char:EOLhyphen"/>ners;</hi> himſelf endured the torture of water,
+<pb n="21" facs="tcp:170004:14"/> but being not able to undergo any further tor<g ref="char:EOLhyphen"/>ture, confeſſed what was askt him by the Fiſcal and ſo was ſent to priſon again.</p>
+            <p>The ſame day alſo, was brought <hi>John Bea<g ref="char:EOLhyphen"/>mont</hi> the ſecond time to the Fiſcals Chamber, where one Captain <hi>Newport</hi> a Dutchmans ſon but born in <hi>England,</hi> was interpreter. <hi>Willi<g ref="char:EOLhyphen"/>am Griggs</hi> was brought to accuſe him, who ſaid, that when the conſultation for ſurpriſal of the Caſtle was held, he the ſaid <hi>Beomont</hi> was preſent: <hi>Beomont</hi> denies it with deep im<g ref="char:EOLhyphen"/>precations, the other faintly affirms it; upon which, <hi>Beomont</hi> is tri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d, and fil'd with water till his intrails began to crack: ſo deviliſh were theſe hell-hounds. (for other terms I cannot give them.) Well, ſo tortured he was, that he anſwered affirmatively to all Interrogatories; yet being let down, ſwore to <hi>Newport,</hi> and <hi>Johnſon</hi> a Dutch Marchant, that the things were falſe which were extorted from him, yet he was conſtrained to put his hand to his con<g ref="char:EOLhyphen"/>feſſion, or elſe to the torture he muſt go: which to avoid, with a ſorrowful heart he ſubſcribed, and ſo had heavy Irons put upon him, and carried to the Dungeon.</p>
+            <p>Next to <hi>Beomont,</hi> was <hi>George Sh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rock</hi> brought to the ſtake, he was an aſſiſtant at <hi>Hitt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> he being call'd to queſtion, ſaw how others had been tortured, made his prayer to
+<pb n="22" facs="tcp:170004:15"/> God (as ſince upon oath he hath affirmed) that he would permit him to tell ſome proba<g ref="char:EOLhyphen"/>ble lies againſt himſelf, as the Dutch might give credit to, and by that means eſcape the torture; but being brought to the wrack, the water provided, and the Candles lighted. he was by the Governour and Fiſcal examined, and charged, That he with the reſt of his Countrymen had contrived the ſurpriſal of the Caſtle: he on his knees proteſts his innocency, upon this they command him to the wrack, and expreſly told him, unleſs he did acknowledge himſelf, and confeſs the other Conſpirators, he ſhould be tormented with fire and water, to death, and after to be drawn to the Gallows, and there hanged up as a monument of their rebellion; all this works not with this noble minded <hi>Engliſh</hi> man, he ſtill maintains his in<g ref="char:EOLhyphen"/>nocency, the Fiſcal commands him to be hoy<g ref="char:EOLhyphen"/>ſed up, then he craved a little time, and told him that he was indeed at <hi>Hitto,</hi> and not in <hi>Amboyna</hi> upon New-yeers day, when the conſultation was pretended: neither had been there ſince <hi>November</hi> before, as was well known to many of the Hollanders themſelves, yet there remaining with him: they again com<g ref="char:EOLhyphen"/>manded him to the wrack; but he deſires once more ſome time, and he would tell them the truth ſo neer as he could: 'Tis true ſaid he, I
+<pb n="23" facs="tcp:170004:15"/> have many times heard <hi>John,</hi> who was with me at <hi>Hitto,</hi> ſay that the Dutch do them ma<g ref="char:EOLhyphen"/>ny unſufferable wrongs, and that now was the time to think upon revenge, in order to which, he had ſpoke with Captain <hi>Towerſon</hi> concern<g ref="char:EOLhyphen"/>ing a brave Plot, at which words the Fiſcal and the reſt were attentive, and much haſtened him on to proceed: ſo he went on, ſaying, That <hi>John Clark</hi> had intreated Captain <hi>Towerſon,</hi> that he might go to <hi>Manaſſer,</hi> there to adviſe with the <hi>Spanyard</hi> to come with Gallies, and pillage the ſmall factories of <hi>Amboyna</hi> and <hi>Serac,</hi> when no ſhips were there. Here again they demanded, <hi>What Captain</hi> Towerſon <hi>ſaid to this;</hi> he ſaid, That <hi>Towerſon</hi> was much offended with <hi>Clark</hi> for this motion, and from thence forth, could never abide him, hereupon the Fiſcal was much offended with him, and told him he was much from the mat<g ref="char:EOLhyphen"/>ter, and therefore ſhould to the torture; he once more craves favour, and began another ſtory, <hi>viz.</hi> Thar <hi>upon Twelf day laſt paſt,</hi> John Clark <hi>told him at</hi> Hitto, <hi>that there was a practice to take the Caſtle of</hi> Amboyna, <hi>and asked whether I would conſent thereun<g ref="char:EOLhyphen"/>to, wherefore he demanded of</hi> Clark, <hi>whe<g ref="char:EOLhyphen"/>ther Captain</hi> Towerſon <hi>had any knowledge of the ſame, which</hi> Clark <hi>affirming, then he the ſaid</hi> Sherrock <hi>ſaid he would joyn with
+<pb n="24" facs="tcp:170004:16"/> them in the Conſpiracy,</hi> then the Fiſcal asked him when the conſultation was held, he an<g ref="char:EOLhyphen"/>ſwered, in <hi>November</hi> laſt, the Fiſcal replyed, that could not be, for the conſultation was up<g ref="char:EOLhyphen"/>on New-yeers day, the priſoner replyed as be<g ref="char:EOLhyphen"/>fore, that he had not been in <hi>Amboyna</hi> ſince the firſt of <hi>December,</hi> till now that he was brought thither, why then quoth the Fiſcal, did you contrary your ſelf? whereto the priſo<g ref="char:EOLhyphen"/>ner with a bold and ſtedfaſt countenance, told him, that all that he had ſpoken about Treaſon were but fictions, and what he ſpake was to a<g ref="char:EOLhyphen"/>void torture. Then went the Fiſcal out into a<g ref="char:EOLhyphen"/>nother room to the Governour, and by and by returned, and ſent <hi>Sherock</hi> to the priſon again. The next day was ge call'd again, and a wri<g ref="char:EOLhyphen"/>ting preſented to him, wherein the Fiſcal had cunningly framed a Confeſſion of his dealing with <hi>Clark</hi> at <hi>Hitto,</hi> touching the taking of the Caſtle of <hi>Amboyna,</hi> which being read un<g ref="char:EOLhyphen"/>to him, the Fiſcal asked him whether it were true or no, he anſwered no: <hi>Why then did you confeſs it?</hi> he anſwered, for fear of tor<g ref="char:EOLhyphen"/>ture: The Fiſcal and the reſt in fury told him, he lyed; for his mouth had ſpoken it, and it was true: therefore they commanded him to ſubſcribe. Which he had no ſooner done, but he fell into great paſſions, charging them all to be guilty ot his Countrymens blood, for they
+<pb n="25" facs="tcp:170004:16"/> had extorted this from his hands, which his heart abhorred, and bid them look to it; for they ſhould anſwer for this at the laſt day: withal he grapled with the Fiſcal and would have ſtaid him from carrying in his Confeſſion to the Governour, with whom he alſo deſired ſome diſcourſe; but was preſently laid hold on and carryed away to the priſon.</p>
+            <p>
+               <hi>William Webber</hi> being next examined was told by the Fiſcal that <hi>John Clark</hi> had con<g ref="char:EOLhyphen"/>feſſed him to have been at <hi>Amboyna</hi> on New-yeers-day, and that he had been ſworn to Ca<g ref="char:EOLhyphen"/>ptain <hi>Towerſon</hi>'s plot: all which he denied, and ſaid that he was that day at <hi>Larica.</hi> But be<g ref="char:EOLhyphen"/>ing brought to the Wrack, he then confeſs'd he was at the conſultation on New-yeers-day at <hi>Amboyna:</hi> whatſoever was asked, he confeſ<g ref="char:EOLhyphen"/>ſed in every reſpective circumſtance. He alſo confeſſed that he had received a Letter from <hi>Clerk,</hi> to which was annexed a Poſtſcript ex<g ref="char:EOLhyphen"/>cuſing his brief writing in reſpect of the great buſineſs. But one <hi>Reyner</hi> a Dutch Merchant then ſtanding by, told the Governour, that up<g ref="char:EOLhyphen"/>on New-yeers-day (the time of this pretended conſultation) <hi>Webber</hi> and he were merry at <hi>Larica.</hi> So the Governour left him, and went out; but the Fiſcal had another card to play touching the Poſtſcript of <hi>Clerk</hi>'s Letter, urg<g ref="char:EOLhyphen"/>ing him to ſhew the ſame: which when he
+<pb n="26" facs="tcp:170004:17"/> could not produce, though often threatned the torture, he promiſed to ſave his life, if he would produce the Letter.</p>
+            <p>And now muſt Captain <hi>Towerſon</hi> act his part in the tragedie; for now he's brought to be examined by the Fiſcal: and in order there<g ref="char:EOLhyphen"/>unto, he is ſhewed what others had confeſſed. To clear himſelf from theſe accuſations, he im<g ref="char:EOLhyphen"/>precates dire judgements to fall upon him. if he be any way guilty of what is laid to his charge. <hi>Samuel Colſon</hi> is brought to con<g ref="char:EOLhyphen"/>front him; but before, is told, that if he will not make good what is extorted from him, he ſhall again to the torture; and for fear, he faintly affirmed it; and ſo was ſent to priſon again. They alſo brought <hi>Grigs</hi> and <hi>Fardo</hi> to juſtifie what they confeſſed of him; and be<g ref="char:EOLhyphen"/>ing come face to face, Captain <hi>Towerſon</hi> char<g ref="char:EOLhyphen"/>ged them as they would anſwer it another day before God, that they ſhould not belie him.</p>
+            <p>They being both ſtriken for their falſe accu<g ref="char:EOLhyphen"/>ſing him, fell down upon their knees, and ask<g ref="char:EOLhyphen"/>ed him forgiveneſs, and proteſted that whatſo<g ref="char:EOLhyphen"/>ever was before confeſſed, was as falſe as God is true; and what they ſpake was to avoid torment: with that the Fiſcal was ſo mad, that he threatned torture, which they would not endure, but affirmed their firſt Confeſſions to be true.</p>
+            <pb n="27" facs="tcp:170004:17"/>
+            <p>When <hi>Colſon</hi> (who had accuſed Captain <hi>Towerſon</hi> before) was commanded to ſet his hand to his extorted Confeſſion he ſaid, <hi>The ſin I hope ſhall not lie at my dore, for who are the greateſt ſinners, you that compel me by torture to accuſe thoſe which were never guilty, and to ſubſcribe, or me that am com<g ref="char:EOLhyphen"/>pell'd, let God judge between us.</hi>
+            </p>
+            <p>
+               <hi>Febr.</hi> the 20 comes <hi>Iohn VVetheral</hi> to be examined, he was a Factor of <hi>Cambello</hi> in the Iſland of <hi>Seran:</hi> he is likewiſe forced to con<g ref="char:EOLhyphen"/>feſs he was at <hi>Amboyna</hi> upon New-yeers-day; but that he was engaged by way of conſulta<g ref="char:EOLhyphen"/>tion, he utterly denies; and all the buſineſs he had there, was about ſome cloth of the Engliſh Companies that lay in ſome factories rotting and ſpoiling, which they adviſed for the put<g ref="char:EOLhyphen"/>ting off at the beſt advantage. The Gover<g ref="char:EOLhyphen"/>nour ſaid, We <hi>queſtion you not about cloth, but about treaſonable actions of you and your complices.</hi> He proteſts his innocency, and is for that time diſmiſſed: but the next day he was ſent for again, and Captain <hi>Towerſon</hi> was called to confront him, having already ſpoken ſomething concerning him: but <hi>Towerſon</hi> ſpake onely theſe words: <hi>Maſter</hi> Wethral, <hi>Maſter</hi> Wethral, <hi>ſpeak the truth, and nothing but the truth, as God ſhall direct you.</hi> So Capt. <hi>Towerſon</hi> was put out again, &amp; <hi>Wethral</hi> call'd
+<pb n="28" facs="tcp:170004:18"/> in and put to the water-torture, with menaces that if water did not make him confeſs, fire ſhould; be prayed them to tell him what he ſhould ſay, and he would do any thing, rather then be tormented: they told him he knew what to ſay without being directed; but when they had hoyſed him up three or four times, and they ſaw he was to ſeek what to ſay, they re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d other mens Confeſſions to him, and ex<g ref="char:EOLhyphen"/>amined him from point to point what they had confeſſed, and he anſwered poſitively that he was engaged, meerly to avoid the torture.</p>
+            <p>Next <hi>John Powel, Wetherels</hi> aſſiſtant at <hi>Cambello,</hi> was called; but he proving that he was not at <hi>Amboyna</hi> ſince <hi>November</hi> laſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and being ſolicited for by one <hi>John Jooſt,</hi> was diſmiſt without torture.</p>
+            <p>Then was <hi>Thomas Ladbrook,</hi> ſervant to <hi>Powel</hi> and <hi>VVetheral</hi> at <hi>Cambello,</hi> brought to be examined, but proving that he was at <hi>Cambello</hi> at the time of this pretended en<g ref="char:EOLhyphen"/>gagement, and ſerving in ſuch a condition, as that he was not acquainted with letters of ſo high conſequence, he was diſmiſt.</p>
+            <p>After him comes <hi>Ephraim Ramſey</hi> to be ex<g ref="char:EOLhyphen"/>amined, and particularly concerning Captain <hi>VVelden</hi> the <hi>Engliſh</hi> Agent at <hi>Bandu,</hi> but he denies, and proves he was not at <hi>Amboyna,</hi> at New-yeers tide; he was likewiſe mediated
+<pb n="29" facs="tcp:170004:18"/> for by <hi>Iohn Iooſt,</hi> and diſcharged after he had been tortured a good ſpace.</p>
+            <p>Thus gentle Reader have I given you a re<g ref="char:EOLhyphen"/>lation of the examinations tortures, and con<g ref="char:EOLhyphen"/>feſſions, being the work of eight days; after which, two days expired, then Sentence was pronounced; <hi>Iohn Powel</hi> being acquitted, went to viſit <hi>Iohn Fardo</hi> in priſon, which <hi>Far<g ref="char:EOLhyphen"/>do</hi> had accuſed <hi>Towerſon,</hi> for <hi>Fardo</hi> was much troubled, and proteſted his innocencie and ſor<g ref="char:EOLhyphen"/>row for accuſing him: for, ſaid he, the fear of death doth nothing diſmay me; for God, I truſt, will be merciful unto me: the onely thing that torments my ſpirit, is, that I have accuſed that honeſt and godly man, Captain <hi>Tower<g ref="char:EOLhyphen"/>ſon,</hi> whom I think in my conſcience was ſo ho<g ref="char:EOLhyphen"/>neſt, that no thought remained in his breſt to do any man the leaſt injury, much leſs would he attempt a buſineſs of ſuch a nature as he is accuſed for. He further ſaid, he would before his death receive the Sacrament, as an acknow<g ref="char:EOLhyphen"/>ledgement of the injury he had done Captain <hi>Towerſon,</hi> in accuſing him wrongfully through fear of torment.</p>
+            <p>The five and twentieth, old ſtile, all the pri<g ref="char:EOLhyphen"/>ſoners, as well the Engliſh, as the Portugals and Japoners, were brought into the great hall of the Caſtle, and there ſolemnly condemned, except <hi>Iohn Powel, Ephraim Ramſey, Iohn
+<pb n="30" facs="tcp:170004:19"/> Sadler,</hi> and <hi>Thomas Ladbrook</hi> formerly ac<g ref="char:EOLhyphen"/>quitted, Captain <hi>Towerſon</hi> while he was im<g ref="char:EOLhyphen"/>priſoned, was never permitted to ſee, much leſs to ſpeak with any of his Countrymen, and fellow priſoners, yet he writ much in his cham<g ref="char:EOLhyphen"/>ber to vindicate himſelf, but all was ſuppreſs'd except a bill of debt, which one <hi>Thomas I<g ref="char:EOLhyphen"/>chiſon</hi> a free Burgher, by favour of the kee<g ref="char:EOLhyphen"/>pers, got as an acknowledgement that the En<g ref="char:EOLhyphen"/>gliſh Company owed him mony, in the end of this bill he writ thus: <hi>Firmed by the firm of me</hi> Gabriel Towerſon, <hi>now appointed to die, guiltleſs of any thing that can be juſtly laid to my charge, God forgive them their guilt and receive me into his mercy, Amen.</hi> This bill being brought to Mr. <hi>Welden</hi> the Engliſh Agent, at <hi>Bandu,</hi> paid the mony, and received in the acknowledgement.</p>
+            <p>
+               <hi>William Grigs,</hi> who before had accuſed Cap. <hi>Tow<g ref="char:EOLhyphen"/>esſon,</hi> writ theſe words following in his Table-Book, <hi>We who are here ſpecified, John Beamont, Marchant of Loho, Will. Grigs Marchant of Larica, Abel Price, Chy<g ref="char:EOLhyphen"/>rurgion of Amboyna, Robert Brown Taylor, which here lie Priſoners in the ſhip</hi> Roterdam, <hi>being apprehended for Conspiracy, for blowing up the Caſtle of Amboyna, being judged to death this</hi> 6 <hi>of</hi> March 1622. which we through the anguiſh of the the torments were conſtrained to ſpeak that which never came into our thoughts, which we take upon our deaths and ſalva<g ref="char:EOLhyphen"/>tion, they tortured us with thoſe extream tortures of fire and water, that humane fleſh is not able to ſee it, and this we take upon our deaths, That they have put us to death guiltleſs of our accuſation.</p>
+            <pb n="29" facs="tcp:170004:19"/>
+            <p>This Table-book was afterwards delivered to Mr. <hi>Welden</hi> aforenamed, by one that ſerved the Dutch.</p>
+            <p>
+               <hi>Samuel Colſon</hi> alſo, that through tortures accu<g ref="char:EOLhyphen"/>ſed Captain <hi>Towerſon,</hi> writ in waſt leaves of Com<g ref="char:EOLhyphen"/>mon Prayer and Pſalmes, theſe inſuing lines in one page thus;</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>March 5. <hi>Stilo novo</hi> being Sunday,</date> aboard the <hi>Roterdam,</hi> lying in irons:</dateline>
+                  </opener>
+                  <p>UNderſtand that I <hi>Samuel Colſon,</hi> late Factor of Hitto, was apprehended for ſuſpition of conſpiracy, and for any thing that I know muſt die for it: wherefore having no better means to have my innocency known, have writ this in this book, hoping ſome good Engliſh men will ſee it. I do here upon my ſalvation, as I hope by his Death and Paſſion to have redemption for my ſins, that I am clear of all ſuch conſpiracies; nei<g ref="char:EOLhyphen"/>ther do I know any Engliſh man guilty thereof, nor other creature in the world. As this is true: God bleſſe me.</p>
+                  <closer>
+                     <signed>Samuel Colſon.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>On the other ſide, upon the firſt page of the Catechiſm, is thus written:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>IN another leaf you ſhall underſtand more, which I have written in this book.</p>
+                  <closer>
+                     <signed>Samuel Colſon.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>In the beginning of the Pſalmes, and in the leaf ſo referred unto, is thus written, <hi>viz,</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="30" facs="tcp:170004:20"/>
+                  <p>The Japons were taken with ſome villany, and brought to examination, being moſt tyran<g ref="char:EOLhyphen"/>nouſly tortured, were asked whether the Engliſh had any hand in the plot, which torture made them ſay, Yea. Then was Mr. <hi>Tomſon,</hi> Mr. <hi>Johnſon,</hi> Mr. <hi>Collins, John Clark</hi> brought to examination, and were burn'd under the armes, armpits, the hands, and the ſoles of the feet, with another moſt miſerable torture, to drink water; ſome of them almoſt tortured to death, and were forced to con<g ref="char:EOLhyphen"/>feſſe that which they never knew, by reaſon of the torment which fleſh and bloud is not able to in<g ref="char:EOLhyphen"/>dure. Then were the reſt of the Engliſh men cal<g ref="char:EOLhyphen"/>led one by one, amongſt which I was one, being wiſhed to confeſſe, or elſe I muſt go to torment; withall cauſed Mr. <hi>Johnſon,</hi> who was tormented to witneſſe againſt me, or els he ſhould be tormented again; which rather then he would indure, he ſaid what they would have, he would ſpeak: then muſt I confeſſe that I never knew, or els go to torment; which rather then I would ſuffer, I did confeſſe that, which, as I ſhall be ſaved before almighty God, is not true, being forced for fear of torment. Then did they make us witneſſe againſt Captain <hi>Towerſon,</hi> and at laſt made Captain <hi>Towerſon</hi> con<g ref="char:EOLhyphen"/>feſſe all for fear of torment, for which we muſt all die. As I mean and hope to have pardon for my ſins, I know no more then the child unborn in this buſineſſe.</p>
+                  <closer>
+                     <dateline>Written with mine own hand <date>the firſt of March, <hi>Stilo novo.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Samuel Colſon.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="31" facs="tcp:170004:20"/>
+            <p>Yet in another page were theſe words:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>I Was born in New-Caſtle upon <hi>Tyne,</hi> where I deſire this book may come, that my friends may know of mine innocency.</p>
+                  <closer>
+                     <signed>Samuel Colſon.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This book he delivered to one that ſerved the Hollanders, who ſowed it up in his bed, and ſoon as occaſion offered it ſelf, he delivered it up to Mr. <hi>Welden</hi> before named.</p>
+            <p>All which writings are extant in very good hands.</p>
+            <p>The ſix and twentieth of February, <hi>Stilo veteri,</hi> the priſoners were brought into the great Hall of the Caſtle, only Captain <hi>Towerſon, Emanuel Tomſon,</hi> were to be prepared to death by the Mi<g ref="char:EOLhyphen"/>niſters.</p>
+            <p>As for the <hi>Japoners</hi> in generall, they cry out un<g ref="char:EOLhyphen"/>to the Engliſh concerning this plot: Oh you Eng<g ref="char:EOLhyphen"/>liſh men, where did we ever in our lives eat with you, talk with you, or to our remembrance ſee you? the Engliſh men anſwered, why then have you accuſed us? the poor men perceiving they were made believe, each had accuſed others, be<g ref="char:EOLhyphen"/>fore they had done ſo, and ſhewed them their tor<g ref="char:EOLhyphen"/>tured and maſſerated bodies, and ſaid, <hi>if a stone were thus burrt would it not change his nature? how much more we that are but fleſh and bloud.</hi>
+            </p>
+            <p>Whileſt they were all in the Hall, Captain <hi>Tow<g ref="char:EOLhyphen"/>erſon</hi> was called to examination, and two Jarres of water carried after him to fright him, but what they did to him no man knows, but they made him ſubſcribe.</p>
+            <pb n="32" facs="tcp:170004:21"/>
+            <p>After the Governour had ſupped, <hi>John Powell, Ephraim Ramſey, Thomas Ladbrook,</hi> and <hi>John Sad<g ref="char:EOLhyphen"/>ler,</hi> who were found not guilty, were taken from the reſt, and put into another room, preſently <hi>Sa<g ref="char:EOLhyphen"/>muel Colſon</hi> and <hi>Edward Collins</hi> were brought from the reſt, and put where <hi>Emmanuel Tomſon</hi> lay. The Fiſcall told them though they deſerved little mercy, yet it was the Governours mercy to ſave one of them three, and 'twas not to him which he ſaved, but it was his pleaſure they ſhould draw lots for it, which they did, and it fell upon <hi>Edward Collins</hi> to be ſaved, who was then carried to <hi>John Powells</hi> Chamber, where the reſt lay that were quit, he was told he was beholding to <hi>Peter Johnſon</hi> the Dutch Merchant of <hi>Loho,</hi> and to the Secretary, for they had beg'd his life.</p>
+            <p>Now there remained in the Hall ten of the Eng<g ref="char:EOLhyphen"/>liſh, for <hi>Towerſon</hi> and <hi>Tomſon</hi> were kept in rooms by themſelves, apart from the reſt.</p>
+            <p>To thoſe in the Hall the Dutch Miniſters came, and they admoniſht them to confeſſe unto the world what they were guilty of, for their time was but ſhort, and to diſſemble now with God 'twould lie heavy upon their conſciences, and took the Sacrament thereon, but eſpecially as a ſeal of the forgiveneſſe of their ſins, and to ſhow to the world their innocency: but by the way <hi>Samuel Colſon</hi> ſpake to the Miniſter, ſaying, <hi>you tell us of the danger of diſſimulation, but tell us if we ſuffer guiltleſſe, being otherwiſe true believers in Christ Je<g ref="char:EOLhyphen"/>ſus,
+<pb n="33" facs="tcp:170004:21"/> what ſhall be our reward?</hi> the Preachers replied, <hi>ſo clear as you appear now before God, by ſo much ſhall your Reſurrection be the more glorious:</hi> this rejoyced <hi>Colſons</hi> heart, inſomuch that he imbraced the Preacher that had given this comfortable glance upon him, and gave him his purſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with ſuch money he had in't, ſaying <hi>Domine,</hi> Lord bleſſe you; and tell the Governour I do freely forgive him, and I do earneſtly deſire you to exhort him to re<g ref="char:EOLhyphen"/>pent him of this bloudy tragedy brought upon us poor ſouls that are innocent of any ſuch action.</p>
+            <p>Upon this ſpeech of <hi>Colſons</hi> all the reſt of the priſoners ſtood up, and ſignified their conſent to his ſpeech: then ſpake <hi>Fardo</hi> to the reſt in preſence of the Miniſters, as followeth, <hi>Countreymen and Brethren, all you that are condemned to die, I charge you all as you will anſwer it at the dreadfull day of Iudgement, if any of you be guilty of this we are ac<g ref="char:EOLhyphen"/>cuſed, clear your conſciences, and ſpeak the truth to ſatisfie the world.</hi>
+            </p>
+            <p>Hereupon <hi>Samuel Colſon</hi> ſpake with a loud voice, ſaying, <hi>if I he guilty of this treaſon, let not my ſoul live in the Kingdome of heaven,</hi> at which words every one of the reſt cryed <hi>Amen, Amen</hi> for me, <hi>Amen</hi> for me Lord. When this was done, every one went to imbrace each one whom he had accu<g ref="char:EOLhyphen"/>ſed, and beg'd forgiveneſſe of one another, for their falſe accuſation being extorted from them by the pains of fear and torture, and they all freely forgave one another, for none had ſo falſly accu<g ref="char:EOLhyphen"/>ſed,
+<pb n="34" facs="tcp:170004:22"/> but himſelf had accuſed another falſly; impar<g ref="char:EOLhyphen"/>ticular <hi>George Sharrock,</hi> who ſurvived to relate this nights paſſage, kneeled down to <hi>Iohn Clerk</hi> whom he had accuſed of the tale at Hitto, above menti<g ref="char:EOLhyphen"/>oned, and deſired pardon at his hands, as he lookt for forgiveneſſe of God; <hi>Clark</hi> freely forgave him, ſaying, <hi>if I ſhould not forgive you, how ſhould I look to be forgiven of God, for I have as falſly accuſed</hi> Towerſon, <hi>and others?</hi>
+            </p>
+            <p>After this they ſpent the reſt of the dolefull night in Prayer, and ſinging of Pſalmes, comfort<g ref="char:EOLhyphen"/>ing one another, though the Dutch that guarded them offered them wine, and bid them drink lu<g ref="char:EOLhyphen"/>ſtick and drive away the ſorrow according to their cuſtome, but 'twas contrary to the nature of the Engliſh.</p>
+            <p>The next morning being the execution day, 27. of February, <hi>Stilo veteri, John Powell</hi> being freed, as is above recited, came into the room where the condemned perſons were, and found them at prayers: they all deſired him to relate to their friends, how they vvere put to death for that they vvere never guilty of, taking upon their deaths that vvhatſoever they had confeſſed concerning themſelves, or accuſing of others vvas falſe, and only done to avoid the cruell torments they vvere put to.</p>
+            <p>Likevviſe this morning vvas <hi>William Webber</hi> called into the Fiſcalls room, and there urged to produce the letter vvhich he had received from
+<pb n="35" facs="tcp:170004:22"/> 
+               <hi>Iohn Clark,</hi> in the poſtſcript whereof there was ſome buſineſſe of conſequence; they made great promiſes, as to ſave his life if he would ſhew them that letter, which though he did not (for could he produce that to them he never received?) yet they pardoned him his life, and ſent him to the reſt that were pardoned, and <hi>Sharrock</hi> with him.</p>
+            <p>
+               <hi>Emanuel Tomſon</hi> hearing that <hi>Beomont</hi> was par<g ref="char:EOLhyphen"/>doned, deſired that he might ſpeak with him, which he obtained with much entreaty. <hi>Beomont</hi> found him in his Chamber in a miſerable conditi<g ref="char:EOLhyphen"/>on, with his wounds bound up, but the matter and bloud iſſuing through the Rowler; he took <hi>Beo<g ref="char:EOLhyphen"/>mont</hi> by the hand, and prayed him when he came into England to do his duty to the honorable Company, his Maſters, to Mr. <hi>Robinſon,</hi> and his brother <hi>Billingſley,</hi> and to certifie his innocency by his own knowledge.</p>
+            <p>All things being prepar'd for execution, the priſoners were brought forth of the Hall, by the chamber where the quit men were, who took their farewell of their Countreymen now going to ex<g ref="char:EOLhyphen"/>ecution, and ſtaying a little before the chamber, they charged thoſe that were their friends to bear witneſſe to their friends of their innocency, and that they were meerly murthered by the Hollan<g ref="char:EOLhyphen"/>ders upon a pretended treaſon, whom he pray'd God to forgive.</p>
+            <p>Being brought into the yard, ſentence vvas read unto them from a gallery, and from thence they
+<pb n="36" facs="tcp:170004:23"/> vvere carried to the nine <hi>Iapons,</hi> and one <hi>Portugal</hi> condemned vvith them, and in proceſſion, to ſhew them to the people of the tovvn, guarded vvith a ſtrong guard of Dutch and Amboyna ſouldiers, and ſuch vvas the concourſe of people vvhich re<g ref="char:EOLhyphen"/>ſorted to this triumph of the Dutch over the Eng<g ref="char:EOLhyphen"/>liſh that 'tvvas admirable.</p>
+            <p>
+               <hi>Samuel Colſon</hi> having conceived a prayer vvhich he read to his fellovvs before his execution, it vvas a proteſt of his innocency, and novv at the place of execution pronounced the ſame, vvhich done, threvv avvay the paper, vvhich the Governour cau<g ref="char:EOLhyphen"/>ſed to be brought unto him, and kept it.</p>
+            <p>
+               <hi>Emanuel Tomſon</hi> he doubted not but God vvould ſhevv ſome ſign of his innocency, and every one ſeverally of them at their death proteſted their clearneſſe of any fact or treaſon againſt the Dutch, and ſo one by one with great chearfullneſſe ſuffe<g ref="char:EOLhyphen"/>red the fatall ſtroke.</p>
+            <p>The Portugall he prayed over his beads, and kiſs'd the Croſſe, ſwearing thereon, declar'd that he was clear from this treaſon laid to his charge, but yet took this puniſhment as a juſt judgment of God, for leaving his wife in his own Countrey, by the perſwaſion of the Governour had taken ano<g ref="char:EOLhyphen"/>ther, his firſt wife living.</p>
+            <p>The Japons according to their Religion con<g ref="char:EOLhyphen"/>cluded with the like profeſſion of their innocency: ſo there ſuffered ten Engliſh men, <hi>viz. Gabriel Towerſon,</hi> the Engliſh Agent at Amboyna, <hi>Samuel
+<pb n="37" facs="tcp:170004:23"/> Colſon</hi> Factor at Hitto, <hi>Emanuel Tomſon</hi> Aſſiſtant at Amboyna, <hi>Timothy Johnſon</hi> Aſſiſtant, <hi>John We<g ref="char:EOLhyphen"/>therall.</hi> Factor at Cambello, <hi>Iohn Clark</hi> Aſſiſtant at Hitto, <hi>William Griggs</hi> Factor at Larica, <hi>John Fardo</hi> Steward of the houſe, <hi>Abel Price</hi> Chyrurgion, and <hi>Robert Brown</hi> Tailor.</p>
+            <p>The Portugal was <hi>Auguſtin Perez,</hi> born at Ben<g ref="char:EOLhyphen"/>gala.</p>
+            <p>The Japoneſſes names were
+<list>
+                  <item>
+                     <hi>Hitieſo,</hi> all born at Firanda.</item>
+                  <item>
+                     <hi>Tſioſa,</hi> all born at Firanda.</item>
+                  <item>
+                     <hi>Sinſa.</hi> all born at Firanda.</item>
+                  <item>
+                     <hi>Sidney Migiel,</hi> all born at Naganſacque.</item>
+                  <item>
+                     <hi>Pedro Congie,</hi> all born at Naganſacque.</item>
+                  <item>
+                     <hi>Thome Corea.</hi> all born at Naganſacque.</item>
+                  <item>
+                     <hi>Quiondayo</hi> Native of Coreats.</item>
+                  <item>
+                     <hi>Tſabinda</hi> of Tſoucketgo.</item>
+                  <item>
+                     <hi>Zanchoe</hi> of Fiſien.</item>
+               </list>
+            </p>
+            <p>Beſides theſe there were two other Japoneſes, the one named <hi>Soyſimo</hi> born at Firando, and the other <hi>Saceube</hi> of the ſame place: the former of which being tortured, confeſſed both to have been privy to this pretended treaſon, and offered his ſervice unto the Engliſh to aid them in taking the Caſtle; and the other confeſs'd he was privy to the conſultation of the other Japons to this purpoſe: but neither of them were executed, nor ſo much as condemn'd, but the reaſon why was kept from the Engliſh.</p>
+            <pb n="38" facs="tcp:170004:24"/>
+            <p>The Dutch had prepared a black cloth of velvet for Captain <hi>Towerſons</hi> body to fall upon, which being defaced with his bloud, was put to the ac<g ref="char:EOLhyphen"/>count of the Engliſh Company.</p>
+            <p>At the inſtant of the execution there aroſe a great darkneſſe, and a violent wind and tempeſt, that two Dutch ſhips were driven from their an<g ref="char:EOLhyphen"/>chors in the harbour, and with great labour ſaved from the rocks.</p>
+            <p>Preſently after all this, <hi>William Dunkin,</hi> who told the Governor that <hi>Robert Brown</hi> the Engliſh Tailor, had ſaid, that within ſix moneths the Eng<g ref="char:EOLhyphen"/>liſh ſhould have as much to do in the Caſtle as the Dutch: this fellow coming one night to the grave, where the Engliſh were in a pit together, except<g ref="char:EOLhyphen"/>ing Captain <hi>Towerſon,</hi> fell down upon the grave, and after riſe again ſtark mad, and ſo continued three daies and died, this was remarkable: next follows a new ſickneſſe, which ſwept away a thou<g ref="char:EOLhyphen"/>ſand Dutch and Amboyners in as ſhort a time as thirty died at other times. Theſe ſigns were by the ſurviving Engliſh taken as the confident preſage of <hi>Emanuel Tomſon</hi> before ſpoken of, and were by the Amboyners reputed to be a token of Gods wrath for the Hollanders barbarous tyranny.</p>
+            <p>The next day, as if theſe Judgments had been nothing, was ſpent in triumph for the new Gene<g ref="char:EOLhyphen"/>rall of the Dutch then proclaimed, and in publike rejoycing for their deliverance from this pretend<g ref="char:EOLhyphen"/>ed treaſon.</p>
+            <pb n="39" facs="tcp:170004:24"/>
+            <p>The day following, <hi>Iohn Beomont,</hi> and <hi>George Sharrock, Edward Collins, William Webber</hi> were brought to the Governor, who told them they were pardoned in honor of the new Generall, and <hi>Collins</hi> he was to go to Jaccatra to ſtand to the fa<g ref="char:EOLhyphen"/>vour of the Generall, ſo the Governor made them drink wine with him, and diſmiſs'd them, and bid them go and conſult with thoſe that were ſaved, who were fit to be planted in the reſt of the facto<g ref="char:EOLhyphen"/>ries.</p>
+            <p>Which done, he accordingly appointed them each to their place, adding that he would hence<g ref="char:EOLhyphen"/>forth take upon him the patronage of the Engliſh Companies buſineſſe; to which purpoſe he had in<g ref="char:EOLhyphen"/>tercepted a letter come from the Engliſh Preſident at Jaccatra to <hi>Towerſon,</hi> wherein he found nothing whereby to accuſe rhem, but ſaid he was glad that the Engliſh at Jaccatra were innocent in this buſi<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>The Governor and Fiſcall having thus made an end at Amboyna, diſpatched themſelves for Ban<g ref="char:EOLhyphen"/>da, where they made enquiry againſt Captain <hi>Wel<g ref="char:EOLhyphen"/>den,</hi> the Engliſh Agent there, yet found nothing to accuſe him juſtly of, but at laſt courteouſly en<g ref="char:EOLhyphen"/>tertained him, and told him they were glad they found him as well as the Engliſh at Jaccatra with<g ref="char:EOLhyphen"/>out ſuſpition of treaſon: Captain <hi>Welden</hi> taking into conſideration the great diſorder of the Eng<g ref="char:EOLhyphen"/>liſh Companies at Amboyna, by reaſon of theſe practiſes, goes to Amboyna in a Dutch Pinnace,
+<pb n="40" facs="tcp:170004:25"/> which he hired at Banda, where he recalled the Companies ſervants, ſent as before this to the un<g ref="char:EOLhyphen"/>der Factories.</p>
+            <p>And having enquired of the whole proceedings lately paſſed, he found by the agreeing ſpeeches of them all, there was no ſuch treaſon as was pretend<g ref="char:EOLhyphen"/>ed, as alſo hearing what ſtrict charge the Governor had left to the ſurviving Engliſh, not once to talk about this bloudy buſineſſe, although they were daily reproached by the Countrey people of trea<g ref="char:EOLhyphen"/>ſon, and a bloudy intent to have murthered all the Natives, and to have ripped up women with child, and ſuch fopperies did the Dutch poſſeſſe the vul<g ref="char:EOLhyphen"/>gar, to make the Engliſh odious to them. M. <hi>Welden</hi> holding it neither for the honor and profit of the Engliſh Company to continue at <hi>Amboyna,</hi> he took his poor remnant of the Engliſh with him in his Pinnace, and went for Jaccatra, whether the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:EOLhyphen"/>vernor had ſent <hi>Iohn Beomont</hi> and <hi>Edward Collins</hi> as condemned men to ſtand to the mercy of the Generall.</p>
+            <p>When this news of Amboyna came to Jaccatra, and the Engliſh Preſident ſent to the Generall of the Dutch, to know by what Authority the Go<g ref="char:EOLhyphen"/>vernour of Amboyna uſed the Engliſh thus, and how he and the reſt of the Dutch reſent it;</p>
+            <p>The Governor of Jaccatra anſwers the Governor of Amboyna, he derived his Authority for the Lords and States of the united Neatherlands, under whom he had lawfull Juriſdiction in all cauſes criminall as
+<pb n="41" facs="tcp:170004:25"/> civill, and their proceeding neceſſary againſt Trai<g ref="char:EOLhyphen"/>tors, ſuch as the Engliſh, executed at Amboyna, were as may appear by their own confeſſions: a Copy whereof he ſent the Engliſh Preſident, who ſent it back to be authentickly certified, but never could obtain it again.</p>
+            <p>Hitherto gentle reader haſt thou the bare and naked Narration of the progreſſe of theſe actions, of the date, and for the truth of them, as 'tis taken from the Depoſitions of the ſix Engliſh factors, whereof four condemned, and the other two quit<g ref="char:EOLhyphen"/>ted in the proceſſe at Amboyna, all ſince returned into England, examined upon Oath in the Admi<g ref="char:EOLhyphen"/>ralty Court; <hi>Towerſons</hi> and <hi>Tomſons</hi> examinations are not yet come to light, becauſe they were kept from all the reſt, and not any of the Engliſh ſuffe<g ref="char:EOLhyphen"/>red to come neer them, except that ſhort farewell which <hi>John Beomont</hi> took of <hi>Tomſon</hi> the morning before the execution then mentioned.</p>
+            <p>But becauſe the Hollander will ſeem to palliat their cruelties over Engliſh Merchants, as they ac<g ref="char:EOLhyphen"/>knowledge their treaſons under their hands; 'twill not be impertinent to recall certain circumſtances from what hath been related, whereby to clear the Engliſh from any ſuch crime as was laid to their charge.</p>
+            <p>Firſt, Let's remember the Japons were apprehen<g ref="char:EOLhyphen"/>ded and tortured three or four daies before the Engliſh were troubled, and their torture were known in Amboyna, for what they were uſed ſo,
+<pb n="42" facs="tcp:170004:26"/> and <hi>Tomſon</hi> went into the Caſtle to ask leave of the Governor to land ſome rice, juſt as the Japo<g ref="char:EOLhyphen"/>ners were in their torture, and brought back the news to the Engliſh houſe, of the cruell handling of the Japons, which if they had been guilty, they might with eaſe have eſcaped by the Corricorries or ſmall boats that lie along the Strand, but in that they fled not, it proves their innocency.</p>
+            <p>Next how unpoſſible 'twas for the Engliſh to take this Caſtle, ſeeing it was of ſuch great ſtrength, how vigilant they were upon the watch to take a<g ref="char:EOLhyphen"/>larum at the fooliſh word of a Japon, and how they ſhot one of their own ſouldiers to death for ſleeping on the watch. Durſt ten Engliſh men, whereof not one ſouldier, do you think, attempt ſuch a ſtrength, having but three ſwords in the Engliſh houſe, when ſeized on, and half a pound of powder two muskets? ſo theſe Japons were not ſuffered to bear arms, but in the Caſtle, and in their ſervice, and none to ſel them arms nor powder but on great penalty, no Ships in the Harbor of the Engliſh, not twenty Japons in the Iſland, and not many more Engliſh, the reſt of the Engliſh forty leagues off, and thoſe but nine perſons, which were afterward clear'd by the Governor himſelf, 'twas not likely that theſe could ſurprize a Caſtle of ſuch ſtrength, and thoſe at Jaccatra likewiſe.</p>
+            <p>Again, the Hollander hath three other ſtrong, Caſtles in the Iſland vvell furniſh'd vvith ſouldiers and eight Ships in the harbor, beſides a Pinnace, al<g ref="char:EOLhyphen"/>though
+<pb n="43" facs="tcp:170004:26"/> the Engliſh have been approved for their valiant acts, vvhich the Hollanders are vvitneſſe of forth it ſervice done them againſt the King of Spain, yet that ſo fevv perſons, and unarmed, ſhould be imagined to ſurprize ſuch a Caſtle, to me ſeemeth incredible.</p>
+            <p>But let it be granted they might have obtained it, to what end ſhould they endanger themſelves, vvhen the Companies had agreed the Forts ſhould remain in the hands of thoſe in poſſeſſion, and they had the Kings Majeſties, and Lords States General to ratifie it, vvhat peace could they expect to keep in.</p>
+            <p>But let theſe Engliſh men be ſo fooliſh in their plot, that vvhen they vvere condemned to die, and at the hour of their execution to perſiſt to juſtifie their innocency, to a diſſimulation, and to ſpend their time in prayer, and to take the Sacrament on it, that they were free, and asking one another for<g ref="char:EOLhyphen"/>giveneſſe for their accuſing one another, and their conjuring one another to diſcharge their conſcien<g ref="char:EOLhyphen"/>ces, craving Gods mercy or judgement according to their innocency, and to do this in the point of death, what horrid diſſimulation had there been, if ſome one had been ſo deſperate amongſt ten, but all to agree and proteſt their innocency? What hope had they when they ſaw <hi>Towerſons</hi> head cut off, what hope had they to live, nay, why ſhould they deſire it, being ſo mortified, it was no time to diſſemble with God then, when they muſt anſwer it at his Tribunall to me this ſeemes a rid<g ref="char:EOLhyphen"/>dle that they ſhould be guilty.</p>
+            <pb n="44" facs="tcp:170004:27"/>
+            <p>But now to colour this buſineſſe over, and to ſmooth their barbarous proceedings, it is given out, the Governor and Fiſcall found ſuch evidence of the plot, &amp; proceeded ſo evidently, that they ſpa<g ref="char:EOLhyphen"/>red not their own Countrey men, partakers of the treaſon, in the ſame manner as the Engliſh: but this as the relation is true, and grounded on ſworn teſtimony of ſix credible Witneſſes, and as many Merchants of quality that come from thoſe parts can teſtifie.</p>
+            <p>And what the Hollander can do to colour theſe their barbarous proceedings, it is but the unſatia<g ref="char:EOLhyphen"/>ble covetouſneſſe of the Hollander to obtain the whole trade of the Molucccos, Banda, and Am<g ref="char:EOLhyphen"/>boyna, which is now become the event of this bloudy proceſſe.</p>
+            <p>Now to conclude in a word, gentle Reader, I have given thee a true relation of a fact ſo odious and barbarous, and inhumane, executed by Hol<g ref="char:EOLhyphen"/>landers upon the Engliſh, in a place where both lived in a ſeeming amity of partnerſhip, and con<g ref="char:EOLhyphen"/>firmed by a moſt ſolemn treaty, it muſt needs caſt an <hi>Odium</hi> upon them, and never to be forgotten by a true born heroick ſpirited Engliſh-man.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
